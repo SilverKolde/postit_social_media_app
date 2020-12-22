@@ -1,9 +1,6 @@
 # PostIt App
 
 ### Using Vue.js frontend and Node.js/Express backend
-## Setup
-
-Backend uses embedded `sqlite3` database
 
 ## To Run Project
 
